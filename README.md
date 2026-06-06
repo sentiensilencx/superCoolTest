@@ -1,17 +1,13 @@
 # cool_button simulator
 
-A playful HTML/CSS/JS demo that turns a button into an angry, color-changing prank click simulator.
+Let out your anger by fucking over the button! Make it angry.
 
 ## Files
 
 - `index.html` — page content and button
-- `styles.css` — button styling
+- `styles.css` — button styling (I lowk just stole the boilerplate code)
 - `script.js` — click behavior and color changes
-
-## Usage
-
-Open `index.html` in your browser to try the button.
 
 ## License
 
-This project is free and open source.
+licensed under MIT, feel free to do whatever you want with it :D
